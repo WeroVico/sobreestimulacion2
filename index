@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Sobreestimulación</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+		<h1>Sobreestimulación</h1>
+	</header>
+	<main>
+		<section>
+			<h2>¿Qué es la sobreestimulación?</h2>
+			<p>La sobreestimulación es una respuesta de nuestro cuerpo y mente cuando estamos expuestos a demasiados estímulos, ya sean físicos o emocionales. Puede manifestarse en diferentes formas, como ansiedad, estrés e incluso agotamiento. La sobreestimulación puede ser causada por diversas situaciones, incluyendo la presión académica, el uso excesivo de la tecnología y los cambios hormonales.</p>
+		</section>
+		<section>
+			<h2>Síntomas de la sobreestimulación</h2>
+			<ul>
+				<li>Ansiedad</li>
+				<li>Estrés</li>
+				<li>Agotamiento</li>
+				<li>Fatiga mental y física</li>
+				<li>Dificultad para concentrarse</li>
+				<li>Irritabilidad</li>
+				<li>Insomnio</li>
+				<li>Dolores de cabeza</li>
+				<li>Problemas gastrointestinales</li>
+				<li>Hipersensibilidad a la luz, el sonido o el tacto.</li>
+			</ul>
+		</section>
+		<section>
+			<h2>Causas de la sobreestimulación</h2>
+			<p>La sobreestimulación puede ser causada por diversas situaciones, entre ellas:</p>
+			<ul>
+				<li>Presión académica</li>
+				<li>Uso excesivo de la tecnología</li>
+				<li>Cambios hormonales</li>
+				<li>Relaciones interpersonales tóxicas</li>
+				<li>Exceso de estímulos en el ambiente (ruido, luces, etc.)</li>
+			</ul>
+		</section>
+		<section>
+			<h2>Cómo prevenir y tratar la sobreestimulación</h2>
+			<h3>Prevenir</h3>
+			<ul>
+				<li>Establecer límites en el uso de la tecnología</li>
+				<li>Mantener una dieta saludable y hacer ejercicio regularmente</li>
+				<li>Tomarse tiempo para uno mismo y relajarse</li>
+				<li>Aprender a decir "no" cuando sea necesario</li>
+				<li>Establecer prioridades y organizarse de manera efectiva</li>
+				<li>Limitar la exposición a situaciones estresantes</li>
+			</ul>
+			<h3>Tratar</h3>
+			<ul>
+				<li>Identificar y tratar las causas subyacentes de la sobreestimulación</li
